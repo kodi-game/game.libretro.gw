@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="game.libretro.gw"
+		name="Game and Watch"
+		version="1.0.1"
+		provider-name="Libretro">
+	<requires>
+		<import addon="game.libretro" version="1.0.0"/>
+	</requires>
+	<extension point="kodi.gameclient"
+                   library_android="game.libretro.gw.so"
+                   library_linux="game.libretro.gw.so"
+                   library_osx="game.libretro.gw.dylib"
+                   library_windx="game.libretro.gw.dll"
+                   library_wingl="game.libretro.gw.dll">
+		<platforms></platforms>
+		<extensions></extensions>
+		<supports_vfs>true</supports_vfs>
+		<supports_no_game>false</supports_no_game>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Gw v1.0.1</summary>
+		<description>Source: https://github.com/libretro/gw-libretro</description>
+		<platform>all</platform>
+	</extension>
+</addon>
