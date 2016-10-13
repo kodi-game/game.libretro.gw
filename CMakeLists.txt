@@ -1,10 +1,7 @@
+cmake_minimum_required(VERSION 3.1)
 project(game.libretro.gw)
 
-cmake_minimum_required(VERSION 2.6)
-
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
-
-enable_language(CXX)
 
 find_package(Kodi REQUIRED)
 
@@ -40,9 +37,7 @@ externalproject_add(gw
                     BUILD_IN_SOURCE 1)
 
 set(GW_CUSTOM_BINARY ${PROJECT_BINARY_DIR}/gw/src/gw/gw_libretro${CMAKE_SHARED_LIBRARY_SUFFIX}
-                     game.libretro.gw${CMAKE_SHARED_LIBRARY_SUFFIX} gw)
+                     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
 
-build_addon(game.libretro.gw GW DEPLIBS)
-add_dependencies(game.libretro.gw gw)
-
-include(CPack)
+build_addon(${PROJECT_NAME} GW DEPLIBS)
+add_dependencies(${PROJECT_NAME} gw)
