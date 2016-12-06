@@ -1,21 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.gw"
-		name="Game and Watch"
-		version="1.0.1"
+		name="Game &amp; Watch (GW)"
+		version="1.0.0"
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
-                   library_@PLATFORM@="@LIBRARY_FILENAME@">
+			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms></platforms>
-		<extensions></extensions>
+		<extensions>mgw</extensions>
 		<supports_vfs>true</supports_vfs>
-		<supports_no_game>false</supports_no_game>
+		<supports_standalone>false</supports_standalone>
+		<supports_keyboard>false</supports_keyboard>
+		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Gw v1.0.1</summary>
-		<description>Source: https://github.com/libretro/gw-libretro</description>
+		<summary lang="en">Game &amp; Watch (GW) 1.0</summary>
+		<description>Source: https://github.com/libretro/gw-libretro
+
+Supported files: .mgw</description>
+		<license>zlib</license>
 		<platform>@PLATFORM@</platform>
 	</extension>
 </addon>
