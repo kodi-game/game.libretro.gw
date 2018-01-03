@@ -17,7 +17,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Handheld Electronic (GW) 1.6.2</summary>
-		<description>Source: https://github.com/libretro/gw-libretro
+		<description>GW is a Game &amp; Watch simulator.
 
 Supported files: .mgw</description>
 		<license>zlib</license>
