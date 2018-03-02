@@ -14,8 +14,8 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Handheld Electronic (GW) 1.6.2</summary>
-		<description>GW is a Game &amp; Watch simulator.
+		<summary lang="en_GB">Handheld Electronic (GW) 1.6.2</summary>
+		<description lang="en_GB">GW is a Game &amp; Watch simulator.
 
 Supported files: .mgw</description>
 		<license>zlib</license>
