@@ -10,3 +10,5 @@ set(GW_CUSTOM_BINARY ${GW_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
 
 build_addon(${PROJECT_NAME} GW "")
+
+include(CPack)
