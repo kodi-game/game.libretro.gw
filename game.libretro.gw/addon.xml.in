@@ -20,6 +20,7 @@
 Supported files: .mgw</description>
 		<license>zlib</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.gw</source>
 		<assets>
 			<screenshot>resources/screenshot-01.jpg</screenshot>
 			<screenshot>resources/screenshot-02.jpg</screenshot>
