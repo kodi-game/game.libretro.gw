@@ -1,1 +1,1 @@
-gw https://github.com/libretro/gw-libretro master
+gw https://github.com/libretro/gw-libretro/archive/dea8b93021d43f81d332646cb92c88b467745f15.zip
