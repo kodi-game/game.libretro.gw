@@ -15,9 +15,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Handheld Electronic (GW) 1.6.3</summary>
-		<description lang="en_GB">GW is a Game &amp; Watch simulator.
-
-Supported files: .mgw</description>
+		<description lang="en_GB">GW is a Game &amp; Watch simulator.</description>
 		<license>zlib</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.gw</source>
