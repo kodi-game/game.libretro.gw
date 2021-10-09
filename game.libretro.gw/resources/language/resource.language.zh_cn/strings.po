@@ -22,5 +22,5 @@ msgid "Handheld Electronic (GW) 1.6.3"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "GW is a Game &amp; Watch simulator."
+msgid "[OrderedDict([(&#39;lang&#39;, &#39;en_GB&#39;), (&#39;content&#39;, &#39;GW is a Game &amp; Watch simulator.&#39;)]), OrderedDict([(&#39;lang&#39;, &#39;ko_KR&#39;), (&#39;content&#39;, &#39;GW는 게임 &amp; 시계 시뮬레이터입니다.&#39;)]), OrderedDict([(&#39;lang&#39;, &#39;zh_CN&#39;), (&#39;content&#39;, &#39;GW 是一款 Game &amp; Watch 模拟器。&#39;)])]"
 msgstr "GW 是一款 Game &amp; Watch 模拟器。"
