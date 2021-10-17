@@ -22,5 +22,5 @@ msgid "Handheld Electronic (GW) 1.6.3"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "GW is a Game & Watch simulator."
+msgid "GW is a Game &amp; Watch simulator."
 msgstr "GW 是一款 Game &amp; Watch 模拟器。"
