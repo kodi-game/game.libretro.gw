@@ -24,4 +24,3 @@ Help make me fanart!
 ![Screenshot](game.libretro.gw/resources/screenshot-01.jpg)
 ![Screenshot](game.libretro.gw/resources/screenshot-02.jpg)
 ![Screenshot](game.libretro.gw/resources/screenshot-03.jpg)
-
