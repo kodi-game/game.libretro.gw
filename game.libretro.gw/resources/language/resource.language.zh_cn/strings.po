@@ -23,4 +23,4 @@ msgstr ""
 
 msgctxt "Addon Description"
 msgid "GW is a Game & Watch simulator."
-msgstr "GW 是一款 Game &amp; Watch 模拟器。"
+msgstr "GW 是一款 Game & Watch 模拟器。"
