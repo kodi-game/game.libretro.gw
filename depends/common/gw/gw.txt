@@ -1,1 +1,1 @@
-gw https://github.com/libretro/gw-libretro/archive/fc3d8d355b45466c52f8c56a8bcd395b702b310b.tar.gz
+gw https://github.com/libretro/gw-libretro/archive/d08a08154ce8ed8e9de80582c108f157e4c6b226.tar.gz
