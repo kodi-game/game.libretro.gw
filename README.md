@@ -21,6 +21,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.gw/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.gw/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.gw/resources/screenshot-03.jpg)
+![Handheld Electronic (GW) screenshot](game.libretro.gw/resources/screenshot-01.jpg)
+![Handheld Electronic (GW) screenshot](game.libretro.gw/resources/screenshot-02.jpg)
+![Handheld Electronic (GW) screenshot](game.libretro.gw/resources/screenshot-03.jpg)
