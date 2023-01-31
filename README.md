@@ -13,7 +13,7 @@ zlib
 
 ### Icon
 
-Help make me an icon!
+![Handheld Electronic (GW) icon](game.libretro.gw/resources/icon.png)
 
 ### Fanart
 
