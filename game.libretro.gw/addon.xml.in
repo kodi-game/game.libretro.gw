@@ -24,6 +24,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="da_DK">Handheld Electronic (GW)</summary>
 		<summary lang="en_GB">Handheld Electronic (GW)</summary>
 		<summary lang="es_ES">Handheld Electrónica (GW)</summary>
 		<description lang="da_DK">GW er en Game &amp; Watch-simulator.</description>
