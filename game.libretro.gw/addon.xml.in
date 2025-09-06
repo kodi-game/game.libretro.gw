@@ -29,6 +29,7 @@
 		<summary lang="es_ES">Handheld Electrónica (GW)</summary>
 		<summary lang="it_IT">Handheld Electronic (GW)</summary>
 		<summary lang="ko_KR">휴대용 전자 장치 (GW)</summary>
+		<summary lang="ru_RU">Handheld Electronic (GW)</summary>
 		<summary lang="sv_SE">Handheld Electronic (GW)</summary>
 		<summary lang="zh_CN">Handheld Electronic (GW)</summary>
 		<description lang="da_DK">GW er en Game &amp; Watch-simulator.</description>
@@ -37,6 +38,7 @@
 		<description lang="es_ES">GW es un simulador de Game &amp; Watch.</description>
 		<description lang="it_IT">GW è un simulatore di giochi e orologi.</description>
 		<description lang="ko_KR">GW는 게임 &amp; 시계 시뮬레이터입니다.</description>
+		<description lang="ru_RU">GW — это симулятор Game &amp; Watch.</description>
 		<description lang="sv_SE">GW är en Game &amp; Watch-simulator.</description>
 		<description lang="zh_CN">GW 是一款 Game &amp; Watch 模拟器。</description>
 	</extension>
